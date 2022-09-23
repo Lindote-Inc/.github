@@ -1,4 +1,6 @@
-## Olá! (Portuguese, not spanish!) 👋
+<img src="https://user-images.githubusercontent.com/97451601/191913140-39ed127f-d160-42bb-ab48-0aea51ac7b4d.png"/>
+<h1>Olá! (Portuguese, not spanish!) 👋</h1>
+
 
 
 🙋‍♀️ This is a real-life friend community of developers.
